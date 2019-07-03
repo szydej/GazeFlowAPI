@@ -13,7 +13,7 @@ How to use it:
 You can use default AppKey for testing.
 
 3. Connect to GazePointer and start reciving gaze data. 
-  a) Use TPC socket ( check GazeFlowAPI.cs source code for details  ).
+  a) Use TCP socket ( check GazeFlowAPI.cs source code for details  ).
   b) Use WebSocket ( check /HTML5 JavaScript/GazeFlowAPI.html source code for details ).
   
 If you see mesage "Unauthorized app want to use your gaze data" Make sure that GazePointer has access to internet, authorization takes place on a GazeFlow server. Check your firewall settings 
