@@ -20,6 +20,6 @@ You can use default AppKey for testing.
 If you see message  "Unauthorized app want to use your gaze data" Make sure that GazePointer has access to internet, authorization takes place on a GazeFlow server. Check your firewall settings 
 
 
-You can also chek out GazeCloudAPI https://api.gazerecorder.com/ for Corss-Platform online Eye-Tracking
+You can also chek out GazeCloudAPI https://api.gazerecorder.com/ for Cr0ss-Platform online Eye-Tracking
 
 
